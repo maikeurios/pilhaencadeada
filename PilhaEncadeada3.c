@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include <stack>
-
+#sistema criado para faculdade matéria algoritmo Maike Ramos
 using namespace std;
 
 int main(){
